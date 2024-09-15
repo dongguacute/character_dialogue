@@ -4,7 +4,7 @@
 
 关于我为什么要来写这个软件，原因如下：
 
-![](https://pic.imgdb.cn/item/66e6b1f7d9c307b7e996cf17.jpg)
+![]([https://pic.imgdb.cn/item/66e6b1f7d9c307b7e996cf17.jpg](https://raw.githubusercontent.com/dongguacute/character_dialogue/main/Screenshot_2024-09-15-17-29-39-573_com.tencent.mm.jpg?token=GHSAT0AAAAAACWLEXZZDJGZ4TSQAESBNF3CZXGWLBQ))
 
 她的意思是要我写一个对话软件就是，可以和自己喜欢的人物对话，所以我就灵机一动写了这个软件
 
